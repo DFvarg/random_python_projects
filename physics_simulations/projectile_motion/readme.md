@@ -1,4 +1,6 @@
 bouncing_ball.py
+![bounce](bouncing_ball.gif)
+
 
 bouncing_balls.py
 
