@@ -2,7 +2,7 @@ bouncing_ball.py
 
 ### Pressing the keys 1, 2, 3, or 4 will spawn in an object
 -----
-![bounce](bouncing_ball.gif)
+![bounceing_ball](bouncing_ball.gif)
 
 
 bouncing_balls.py
